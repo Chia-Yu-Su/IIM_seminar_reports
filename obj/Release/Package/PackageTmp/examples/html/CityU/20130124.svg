@@ -1,0 +1,235 @@
+<svg width="905.0000000000001" height="640.0000000000002" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title/>
+ <defs>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_41">
+   <path stroke-width="10" fill="#000000" d="m100,50l-100,40l30,-40l-30,-40l100,40z" id="svg_4" stroke="#000000"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_44">
+   <path stroke-width="10" fill="#000000" d="m100,50l-100,40l30,-40l-30,-40l100,40z" id="svg_6" stroke="#000000"/>
+  </marker>
+  <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+   <image id="svg_7" x="0" y="0" width="100" height="100"/>
+  </pattern>
+ </defs>
+ <g display="inline" stroke="null">
+  <title>色塊</title>
+  <rect fill="#ff7f00" stroke-width="0" x="12.27779" y="16.85182" width="205.11108" height="611.11114" opacity="0.3" id="svg_8" stroke="#000000"/>
+  <rect fill="#ff7f00" stroke-width="0" x="713.05555" y="15.8519" width="177.77774" height="607.61572" opacity="0.3" id="svg_9" stroke="#000000"/>
+  <rect fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="16.2187" y="164.87801" width="95.14727" height="26" id="svg_21" stroke="#000000"/>
+  <rect fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="720.58458" y="32.50063" width="169.58224" height="29.28736" id="svg_22" stroke-opacity="0" stroke="#000000"/>
+  <rect stroke="#000000" id="svg_27" fill="#ffaaaa" stroke-width="0" x="223.97423" y="15.54639" width="234.31958" height="200.50517" opacity="0.3"/>
+  <rect stroke="#000000" id="svg_36" fill="#ffaaaa" stroke-width="0" x="223.97423" y="219.79896" width="234.31958" height="203.0825" opacity="0.3"/>
+  <rect stroke="#000000" id="svg_37" fill="#ffaaaa" stroke-width="0" x="223.97423" y="429.8505" width="234.31958" height="195.35053" opacity="0.3"/>
+  <rect id="svg_46" stroke="#000000" fill="#ffaaaa" stroke-width="0" x="467.53093" y="15.54639" width="234.31958" height="200.50517" opacity="0.3"/>
+  <rect id="svg_47" stroke="#000000" fill="#ffaaaa" stroke-width="0" x="467.53093" y="219.79896" width="234.31958" height="203.0825" opacity="0.3"/>
+  <rect id="svg_48" stroke="#000000" fill="#ffaaaa" stroke-width="0" x="467.53093" y="429.8505" width="234.31958" height="195.35053" opacity="0.3"/>
+ </g>
+ <g display="inline" stroke="null">
+  <title>圖片</title>
+  <g stroke="null" display="inline">
+ <title>Speaker's photo</title>
+  <image x="24" y="70.5" width="79" height="86" id="svg_78" xlink:href="https://c1.staticflickr.com/5/4797/25869800857_f3d216619a_o.png"/></g>
+  <g stroke="null" display="inline">
+  <title>Welcoming's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4211/34327057783_c1e493b0f1_b.jpg" id="svg_33" height="134.3196" width="142.55673" y="506.76545" x="59.79375"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 1's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4217/34750474380_779cf5852d_b.jpg" id="svg_51" height="156.2036" width="204.40469" y="70.3814" x="241.19579"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 3's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4199/34750474080_5e8b0a1cac_b.jpg" id="svg_54" height="145.25777" width="206.57735" y="280.01029" x="238.3505"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 5's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4199/34327056993_a88c674b02_b.jpg" id="svg_55" height="133.25777" width="217.12374" y="489.77314" x="232.57729"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 4's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4204/34750473830_973c12532a_b.jpg" id="svg_56" height="169.72169" width="212.44331" y="267.61853" x="480.50512"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 2's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4243/34750474220_de538a8614_b.jpg" height="134.94845" width="210.42271" y="79.52578" x="484.78865" id="svg_52"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 6's photo</title>
+  <image x="487.99999" y="476.00002" width="198.00002" height="163.99998" id="svg_11" xlink:href="https://farm5.staticflickr.com/4266/34327056883_58fa7f7ab8_b.jpg"/></g>
+ </g>
+ <g display="inline" stroke="null">
+  <title>標題</title>
+  <g stroke="null" display="inline">
+ <title>Internet of Things</title>
+  <text transform="matrix(0.579593775630522,0,0,1.1045445953599053,211.43379133265276,34.886785974413506) " font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_45" y="10.9064" x="-222.56347" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" opacity="0.85">Internet of Things</text></g>
+  <g stroke="null" display="inline">
+  <title>Prof. Wei Zhao</title>
+  <text fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.75" x="407.34657" y="200.95197" id="svg_31" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.4993904638617978,0,0,0.9098443850214174,-50.075921884839296,-49.62983447271003) " stroke="#000000">Prof. Wei Zhao</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 1</title>
+  <text transform="matrix(0.7768775458192788,0,0,0.8520637225584379,235.68734219390092,180.25164242867973) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="-139.40201" x="46.45878" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_61" stroke="#000000">Part 1-</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 2</title>
+  <text transform="matrix(0.7993644499197088,0,0,0.8189923611194753,296.0421077339114,165.8715464858203) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="-126.18714" x="281.47989" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_62" stroke="#000000">Part 2-</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 3</title>
+  <text transform="matrix(0.774477902654424,0,0,0.77681408719341,100.09462488222074,236.48444998761204) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="41.65718" x="220.36243" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_63" stroke="#000000">Part 3-</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 4</title>
+  <text transform="matrix(0.7485944986115056,0,0,0.8324469589477569,115.54189439432595,57.582860340321886) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="253.21077" x="534.94549" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_64" stroke="#000000">Part 4-</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 5</title>
+  <text transform="matrix(0.7835029280795155,0,0,0.8090414853278107,48.143629642695224,91.84787959401078) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="472.88416" x="290.85712" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_65" stroke="#000000">Part 5-</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 6</title>
+  <text transform="matrix(0.8087568870275166,0,0,0.7574480319304098,86.4167776662168,108.965381257537) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="478.6273" x="544.9426" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_66" stroke="#000000">Part 6-</text></g>
+<g stroke="null" display="inline">
+  <title>Welcoming</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="-39.61793" y="295.16625" id="svg_69" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.8368239538291353,0,0,0.934763403716614,111.86288381963834,246.49403796410073) " stroke="#000000" opacity="0.7">Welcoming</text></g>
+  <g stroke="null" display="inline">
+  <title>Principles of IOT</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="216.62386" y="431.10908" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.5941207133595544,0,0,0.9327362739872292,251.4302309002723,-130.2448460954594) " id="svg_80" font-weight="normal" opacity="0.7">Principles of IOT</text></g>
+  <g stroke="null" display="inline">
+  <title>Introduction</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="348.70555" y="-80.50491" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.6970921002816907,0,0,1.0789236134555127,135.24647286359206,150.20251176123926) " id="svg_87" opacity="0.7">Introduction</text></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Welcoming's video</title>
+  <a id="svg_26" xlink:href="https://youtu.be/sg5JTm9WWuo" stroke="null">
+   <path id="svg_44" marker-mid="url(#se_marker_mid_svg_44)" d="m59.62979,593.8544c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffaaaa" stroke="#000000"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 1's video</title>
+  <a id="svg_57" xlink:href="https://youtu.be/h2Kpyhrx-wQ" stroke="null">
+   <path id="svg_43" marker-mid="url(#se_marker_mid_svg_44)" d="m253.48803,181.31574c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffaaaa" stroke="#000000"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 3's video</title>
+  <a id="svg_58" xlink:href="https://youtu.be/kOL_kdgNy24" stroke="null">
+   <path id="svg_42" marker-mid="url(#se_marker_mid_svg_44)" d="m247.98802,392.91031c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14331l-3.64261,-3.52212l6.37355,-6.1575l-6.37355,-6.15749l3.64261,-3.51914l10.0172,9.67663l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffaaaa" stroke="#000000"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 4's video</title>
+  <a id="svg_59" xlink:href="https://youtu.be/kK_YNsVx7sM" stroke="null">
+   <path stroke="#000000" id="svg_41" marker-mid="url(#se_marker_mid_svg_41)" d="m495.16845,395.40513c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffaaaa"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 2's video</title>
+  <a id="svg_70" xlink:href="https://youtu.be/3ZZcRIDrnYw" stroke="null">
+   <path id="svg_40" marker-mid="url(#se_marker_mid_svg_41)" d="m495.87981,184.19896c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332c-1.2142,-1.17404 -2.42841,-2.34809 -3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffaaaa" stroke="#000000"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 5's video</title>
+  <a id="svg_71" xlink:href="https://youtu.be/9yz99yZbvbo" stroke="null">
+   <path stroke="#000000" id="svg_39" marker-mid="url(#se_marker_mid_svg_41)" d="m254.98802,591.82778c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14331l-3.64261,-3.52212l6.37355,-6.1575l-6.37355,-6.15749l3.64261,-3.51914l10.0172,9.67663l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffaaaa"/>
+  </a></g>
+   <g stroke="null" display="inline">
+  <title>Click to watch Part 6's video</title>
+  <a id="svg_10" xlink:href="https://youtu.be/9yz99yZbvbo">
+   <path stroke="#000000" marker-mid="url(#se_marker_mid_svg_41)" d="m495.00001,591.53533c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14331l-3.64261,-3.52212l6.37355,-6.1575l-6.37355,-6.15749l3.64261,-3.51914l10.0172,9.67663l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffaaaa" id="svg_5"/>
+  </a></g>
+  <text fill="#3f3f3f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="772.10043" y="542.0428" id="svg_83" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" stroke="#000000"/>
+  <g id="svg_180" stroke="null"/>
+  <g stroke="null" display="inline">
+ <title>Realization of IOT</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="711.71408" y="440.69582" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.6140674116907832,0,0,1.0414982710874072,191.13736541985526,-186.81414244876706) " id="svg_34" font-weight="normal" opacity="0.7">Realization of IOT</text></g>
+  <g stroke="null" display="inline">
+ <title>-- What and How</title>
+  <text id="svg_38" transform="matrix(0.5955159571902208,0,0,0.9380168252284145,274.7826605456121,24.967964968763106) " font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="46.28705" x="-245.39216" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" opacity="0.85">-- What and How</text></g>
+  <g stroke="null" display="inline">
+ <title>Abstract</title>
+  <text id="svg_86" fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="-236.6627" y="152.94348" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="translate(554.5355224609375,435.7587890625) scale(1.1204942464828491,1.086641550064087) translate(-554.5355224609375,-435.7587890625) translate(554.274658203125,435.3764953613281) scale(1.0869497060775757,1.1274291276931763) translate(-554.274658203125,-435.3764953613281) translate(554.9812622070312,435.6423034667969) scale(0.7644617557525635,0.9113956093788147) translate(-554.9812622070312,-435.6423034667969) translate(388.8465576171875,441.1921691894531) scale(1.0136302709579468,0.8249392509460449) translate(-388.8465576171875,-441.1921691894531) translate(888.8558959960938,436.2577209472656) scale(0.9734276533126831,1) translate(-888.8558959960938,-436.2577209472656) translate(889.87255859375,504.8636779785156) scale(1) translate(-889.87255859375,-504.8636779785156) translate(889.914306640625,505.77667236328125) scale(1.0139044523239136,1.3043327331542969) translate(-889.914306640625,-505.77667236328125) translate(888.4232177734375,504.6651611328125) scale(1) translate(-888.4232177734375,-504.6651611328125) translate(888.3218994140625,504.255126953125) scale(0.9399330019950867,0.7570223808288574) translate(-888.3218994140625,-504.255126953125) translate(888.0772705078125,504.109619140625) scale(0.8550723195075989,0.9137715697288513) translate(-888.0772705078125,-504.109619140625) matrix(1.0937924253894378,0,0,1.0937924253894378,71.03591400341189,-39.500754610857044) " font-style="italic" stroke="null">Abstract</text></g>
+  <g stroke="null" display="inline">
+ <title>Evolution of IOT</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="757.57155" y="320.25456" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.6737750373945517,0,0,0.9364353836675731,116.78179099981995,-234.80762486748836) " opacity="0.7" id="svg_101">Evolution of IOT</text></g>
+  <g stroke="null" display="inline">
+ <title>Speaker&#x27;s</title>
+  <text transform="matrix(0.8406476094579095,0,0,0.8696967485759515,131.8161622722508,11.668342329910757) " font-style="italic" fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="756.62784" y="48.93353" font-size="24" font-family="Serif" text-anchor="middle" xml:space="preserve" stroke="null" id="svg_25">Speaker&#x27;s</text></g>
+  <g stroke="null" display="inline">
+ <title>Biography</title>
+  <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1933.77359" y="-60.79075" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" font-style="italic" transform="matrix(0.7681051001511282,0,0,0.8530227157745391,-636.4639586873427,105.59283439791079) " opacity="0.8" stroke="null" id="svg_49">Biography</text></g>
+  <g stroke="null" display="inline">
+ <title>Summary</title>
+  <text id="svg_30" fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="525.61094" y="594.45117" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7482013521495074,0,0,1.0084413732313267,-13.721076363119096,-123.05214510935309) " font-weight="normal" opacity="0.7">Summary</text></g>
+  <g stroke="null" display="inline">
+ <title>24 January 2013</title>
+  <text fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.75" x="401.23905" y="233.13324" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.5087597301272531,0,0,0.8094209803700223,-48.87813236618979,-34.862513947748155) " stroke="#000000" id="svg_1">24 January 2013</text></g>
+  <g stroke="null" display="inline">
+ <title>Q&amp;A</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="700.95153" y="605.47277" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.744598039122091,0,0,0.9526694897066407,95.72712723774916,-101.76436363912461) " font-weight="normal" opacity="0.7" id="svg_2">Q&amp;A</text></g>
+ </g>
+  <g display="inline" stroke="null">
+  <title>文字</title>
+  <g stroke="null" display="inline">
+ <title>Internet of Things (IoT) is a 
+networking infrastructure for 
+cyber-physical systems. With 
+IoT, physical objects should 
+be seamlessly integrated into 
+an Internet-like system so that 
+the physical objects and cyber
+-agents can interact each other 
+in order to achieve mission
+-critical objectives. IoT should 
+have tremendous application 
+potential and hence has 
+become popular in recent years, 
+attracting great attentions from 
+both academic research and 
+industrial development. In this 
+talk, we will first focus on 
+fundamental issues related to 
+IoT. We address principles that 
+should guide research and 
+development of IoT. We will then 
+present several approaches that 
+may lead to implementation of 
+IoT. Finally, we will discuss critical 
+issues that must be addressed in 
+order to fully realize the objectives 
+and potentials of IoT.
+</title>
+  <image x="25" y="193.00001" width="173.00001" height="304.99998" id="svg_94" xlink:href="https://c1.staticflickr.com/5/4783/25870024397_8fe70348d5_b.jpg"/></g>
+  <g stroke="null" display="inline">
+ <title>Professor Wei Zhao is currently the 
+Rector of the University of Macau. 
+Professor Zhao served as the Dean 
+of the School of Science at 
+Rensselaer Polytechnic Institute, 
+Director for the Division of Computer 
+and Network Systems in the U.S. 
+National Science Foundation, and 
+Senior Associate Vice President for 
+Research at Texas A&amp;M University. 
+An IEEE Fellow and an Academician 
+of International Eurasian Academy 
+of Sciences, Professor Zhao has 
+made significant contributions in 
+distributed computing, real-time 
+systems, computer networks, and 
+cyber-physical systems. His research 
+group has been well recognized and 
+received numerous awards and 
+prizes including the outstanding 
+paper award (1992) from the IEEE 
+International Conference on 
+Distributed Computing Systems, the 
+best paper award (1998) from the 
+IEEE National Aerospace and 
+Electronics Conference, an award 
+on technology transfer from the 
+Defense Advanced Research 
+Program Agency, and the best paper 
+award from the IEEE International 
+Communication Conference. He 
+received the IEEE Transactions on 
+Parallel and Distributed Systems 
+Outstanding Achievement Award. In 
+2011, he was named by the Ministry 
+of Science and Technology as the 
+Chief Scientist of the national 973 
+Internet of Things Project on cyber-
+physical networking systems. 
+Recognizing his accomplishments 
+in education leadership and scientific 
+research, Professor Wei Zhao has 
+been a recipient of 12 honorary 
+doctoral degrees.
+</title>
+  <image xlink:href="https://c1.staticflickr.com/5/4788/26870148258_c6c52220cf_o.png" id="svg_16" height="539.99996" width="188.00001" y="74" x="710"/></g>
+ </g>
+</svg>

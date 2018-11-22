@@ -1,0 +1,24 @@
+C:\Users\orlab316\Desktop\88_ball\gookon - industry170925\gookon\bin\gookon.dll.config
+C:\Users\orlab316\Desktop\88_ball\gookon - industry170925\gookon\bin\gookon.dll
+C:\Users\orlab316\Desktop\88_ball\gookon - industry170925\gookon\bin\gookon.pdb
+C:\Users\orlab316\Desktop\88_ball\gookon - industry170925\gookon\bin\gookon.xml
+C:\Users\orlab316\Desktop\88_ball\gookon - industry170925\gookon\obj\Debug\gookon.dll
+C:\Users\orlab316\Desktop\88_ball\gookon - industry170925\gookon\obj\Debug\gookon.xml
+C:\Users\orlab316\Desktop\88_ball\gookon - industry170925\gookon\obj\Debug\gookon.pdb
+C:\Users\orlab316\Desktop\88_ball\gookon - industry170925\gookon\obj\Debug\I_Ching.vbprojResolveAssemblyReference.cache
+C:\Users\orlab316\Desktop\I_Ching\gookon - industry170925\gookon\bin\gookon.dll.config
+C:\Users\orlab316\Desktop\I_Ching\gookon - industry170925\gookon\bin\gookon.dll
+C:\Users\orlab316\Desktop\I_Ching\gookon - industry170925\gookon\bin\gookon.pdb
+C:\Users\orlab316\Desktop\I_Ching\gookon - industry170925\gookon\bin\gookon.xml
+C:\Users\orlab316\Desktop\I_Ching\gookon - industry170925\gookon\obj\Debug\I_Ching.vbprojResolveAssemblyReference.cache
+C:\Users\orlab316\Desktop\I_Ching\gookon - industry170925\gookon\obj\Debug\gookon.dll
+C:\Users\orlab316\Desktop\I_Ching\gookon - industry170925\gookon\obj\Debug\gookon.xml
+C:\Users\orlab316\Desktop\I_Ching\gookon - industry170925\gookon\obj\Debug\gookon.pdb
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\bin\gookon.dll.config
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\bin\gookon.dll
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\bin\gookon.pdb
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\bin\gookon.xml
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\obj\Debug\I_Ching.vbprojResolveAssemblyReference.cache
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\obj\Debug\gookon.dll
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\obj\Debug\gookon.xml
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\obj\Debug\gookon.pdb
