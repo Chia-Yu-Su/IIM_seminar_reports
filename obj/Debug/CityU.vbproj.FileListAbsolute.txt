@@ -1,0 +1,84 @@
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\bin\gookon.dll.config
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\bin\gookon.dll
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\bin\gookon.pdb
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\bin\gookon.xml
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\obj\Debug\CityU.vbprojResolveAssemblyReference.cache
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\obj\Debug\gookon.dll
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\obj\Debug\gookon.xml
+C:\Users\orlab316\Desktop\I_Ching - 複製\gookon - industry170925\gookon\obj\Debug\gookon.pdb
+C:\Users\orlab316\Desktop\CityU\gookon - industry170925\gookon\bin\gookon.dll.config
+C:\Users\orlab316\Desktop\CityU\gookon - industry170925\gookon\bin\gookon.dll
+C:\Users\orlab316\Desktop\CityU\gookon - industry170925\gookon\bin\gookon.pdb
+C:\Users\orlab316\Desktop\CityU\gookon - industry170925\gookon\bin\gookon.xml
+C:\Users\orlab316\Desktop\CityU\gookon - industry170925\gookon\obj\Debug\CityU.vbprojResolveAssemblyReference.cache
+C:\Users\orlab316\Desktop\CityU\gookon - industry170925\gookon\obj\Debug\gookon.dll
+C:\Users\orlab316\Desktop\CityU\gookon - industry170925\gookon\obj\Debug\gookon.xml
+C:\Users\orlab316\Desktop\CityU\gookon - industry170925\gookon\obj\Debug\gookon.pdb
+C:\Users\admin\Desktop\NEWBALLLLLLLLLLLLLL\CityU from hongying\gookon - industry170925\gookon\bin\gookon.dll.config
+C:\Users\admin\Desktop\NEWBALLLLLLLLLLLLLL\CityU from hongying\gookon - industry170925\gookon\bin\gookon.dll
+C:\Users\admin\Desktop\NEWBALLLLLLLLLLLLLL\CityU from hongying\gookon - industry170925\gookon\bin\gookon.pdb
+C:\Users\admin\Desktop\NEWBALLLLLLLLLLLLLL\CityU from hongying\gookon - industry170925\gookon\bin\gookon.xml
+C:\Users\admin\Desktop\NEWBALLLLLLLLLLLLLL\CityU from hongying\gookon - industry170925\gookon\obj\Debug\CityU.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\NEWBALLLLLLLLLLLLLL\CityU from hongying\gookon - industry170925\gookon\obj\Debug\CityU.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\NEWBALLLLLLLLLLLLLL\CityU from hongying\gookon - industry170925\gookon\obj\Debug\gookon.dll
+C:\Users\admin\Desktop\NEWBALLLLLLLLLLLLLL\CityU from hongying\gookon - industry170925\gookon\obj\Debug\gookon.xml
+C:\Users\admin\Desktop\NEWBALLLLLLLLLLLLLL\CityU from hongying\gookon - industry170925\gookon\obj\Debug\gookon.pdb
+C:\Users\orlab316\Desktop\gookon - industry170925\gookon\bin\gookon.dll.config
+C:\Users\orlab316\Desktop\gookon - industry170925\gookon\bin\gookon.dll
+C:\Users\orlab316\Desktop\gookon - industry170925\gookon\bin\gookon.pdb
+C:\Users\orlab316\Desktop\gookon - industry170925\gookon\bin\gookon.xml
+C:\Users\orlab316\Desktop\gookon - industry170925\gookon\obj\Debug\CityU.vbprojResolveAssemblyReference.cache
+C:\Users\orlab316\Desktop\gookon - industry170925\gookon\obj\Debug\gookon.dll
+C:\Users\orlab316\Desktop\gookon - industry170925\gookon\obj\Debug\gookon.xml
+C:\Users\orlab316\Desktop\gookon - industry170925\gookon\obj\Debug\gookon.pdb
+C:\Users\orlab316\Desktop\球\CityU_ball\gookon\bin\gookon.dll.config
+C:\Users\orlab316\Desktop\球\CityU_ball\gookon\bin\gookon.dll
+C:\Users\orlab316\Desktop\球\CityU_ball\gookon\bin\gookon.pdb
+C:\Users\orlab316\Desktop\球\CityU_ball\gookon\bin\gookon.xml
+C:\Users\orlab316\Desktop\球\CityU_ball\gookon\obj\Debug\CityU.vbprojResolveAssemblyReference.cache
+C:\Users\orlab316\Desktop\球\CityU_ball\gookon\obj\Debug\gookon.dll
+C:\Users\orlab316\Desktop\球\CityU_ball\gookon\obj\Debug\gookon.xml
+C:\Users\orlab316\Desktop\球\CityU_ball\gookon\obj\Debug\gookon.pdb
+J:\CityU_ball\gookon\bin\gookon.dll
+J:\CityU_ball\gookon\bin\gookon.pdb
+J:\CityU_ball\gookon\bin\gookon.xml
+J:\CityU_ball\gookon\obj\Debug\CityU.vbprojAssemblyReference.cache
+J:\CityU_ball\gookon\obj\Debug\CityU.vbproj.CoreCompileInputs.cache
+J:\CityU_ball\gookon\obj\Debug\gookon.dll
+J:\CityU_ball\gookon\obj\Debug\gookon.xml
+J:\CityU_ball\gookon\obj\Debug\gookon.pdb
+C:\Users\hannah\Desktop\故宮球\gookon\bin\gookon.dll
+C:\Users\hannah\Desktop\故宮球\gookon\bin\gookon.pdb
+C:\Users\hannah\Desktop\故宮球\gookon\bin\gookon.xml
+C:\Users\hannah\Desktop\故宮球\gookon\obj\Debug\CityU.vbprojAssemblyReference.cache
+C:\Users\hannah\Desktop\故宮球\gookon\obj\Debug\CityU.vbproj.CoreCompileInputs.cache
+C:\Users\hannah\Desktop\故宮球\gookon\obj\Debug\gookon.dll
+C:\Users\hannah\Desktop\故宮球\gookon\obj\Debug\gookon.xml
+C:\Users\hannah\Desktop\故宮球\gookon\obj\Debug\gookon.pdb
+C:\Users\Dean\Desktop\故宮球\gookon\bin\gookon.dll.config
+C:\Users\Dean\Desktop\故宮球\gookon\bin\gookon.dll
+C:\Users\Dean\Desktop\故宮球\gookon\bin\gookon.pdb
+C:\Users\Dean\Desktop\故宮球\gookon\bin\gookon.xml
+C:\Users\Dean\Desktop\故宮球\gookon\obj\Debug\CityU.vbprojAssemblyReference.cache
+C:\Users\Dean\Desktop\故宮球\gookon\obj\Debug\CityU.vbproj.CoreCompileInputs.cache
+C:\Users\Dean\Desktop\故宮球\gookon\obj\Debug\gookon.dll
+C:\Users\Dean\Desktop\故宮球\gookon\obj\Debug\gookon.xml
+C:\Users\Dean\Desktop\故宮球\gookon\obj\Debug\gookon.pdb
+C:\Users\Dean\Desktop\SeminarBall\gookon\bin\gookon.dll.config
+C:\Users\Dean\Desktop\SeminarBall\gookon\bin\gookon.dll
+C:\Users\Dean\Desktop\SeminarBall\gookon\bin\gookon.pdb
+C:\Users\Dean\Desktop\SeminarBall\gookon\bin\gookon.xml
+C:\Users\Dean\Desktop\SeminarBall\gookon\obj\Debug\CityU.vbprojAssemblyReference.cache
+C:\Users\Dean\Desktop\SeminarBall\gookon\obj\Debug\CityU.vbproj.CoreCompileInputs.cache
+C:\Users\Dean\Desktop\SeminarBall\gookon\obj\Debug\gookon.dll
+C:\Users\Dean\Desktop\SeminarBall\gookon\obj\Debug\gookon.xml
+C:\Users\Dean\Desktop\SeminarBall\gookon\obj\Debug\gookon.pdb
+C:\wamp64\www\SeminarBall\gookon\bin\gookon.dll.config
+C:\wamp64\www\SeminarBall\gookon\bin\gookon.dll
+C:\wamp64\www\SeminarBall\gookon\bin\gookon.pdb
+C:\wamp64\www\SeminarBall\gookon\bin\gookon.xml
+C:\wamp64\www\SeminarBall\gookon\obj\Debug\CityU.vbprojAssemblyReference.cache
+C:\wamp64\www\SeminarBall\gookon\obj\Debug\CityU.vbproj.CoreCompileInputs.cache
+C:\wamp64\www\SeminarBall\gookon\obj\Debug\gookon.dll
+C:\wamp64\www\SeminarBall\gookon\obj\Debug\gookon.xml
+C:\wamp64\www\SeminarBall\gookon\obj\Debug\gookon.pdb

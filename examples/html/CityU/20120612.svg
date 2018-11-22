@@ -1,0 +1,234 @@
+<svg width="905" height="640.0000000000002" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Synchronization in Flocks with Large Population</title>
+ <defs>
+  <marker id="se_marker_mid_svg_36" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
+   <path stroke="#000000" id="svg_1" d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_mid_svg_41" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
+   <path stroke="#000000" id="svg_4" d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_mid_svg_44" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
+   <path stroke="#000000" id="svg_6" d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke-width="10"/>
+  </marker>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0" id="svg_7"/>
+  </pattern>
+ </defs>
+ <g stroke="null" display="inline">
+  <title>色塊</title>
+  <rect stroke="#000000" opacity="0.3" height="200.99998" width="160" y="15.85186" x="383.55557" stroke-width="0" fill="#7f003f" id="svg_5"/>
+  <rect stroke="#000000" opacity="0.3" height="201" width="160" y="16.85187" x="219.00001" stroke-width="0" fill="#7f003f" id="svg_10"/>
+  <rect stroke="#000000" opacity="0.3" height="200.99998" width="160" y="15.85188" x="547.11112" stroke-width="0" fill="#7f003f" id="svg_11"/>
+  <rect stroke="#000000" opacity="0.3" height="200.99998" width="160" y="222.40743" x="383.55556" stroke-width="0" fill="#7f003f" id="svg_12"/>
+  <rect stroke="#000000" opacity="0.3" height="198.00001" width="160" y="223.40742" x="219.00001" stroke-width="0" fill="#7f003f" id="svg_13"/>
+  <rect stroke="#000000" opacity="0.3" height="200.99998" width="160" y="222.40744" x="547.11112" stroke-width="0" fill="#7f003f" id="svg_14"/>
+  <rect stroke="#000000" opacity="0.3" height="196.43338" width="484.05648" y="428.52958" x="221.20874" stroke-width="0" fill="#7f003f" id="svg_15"/>
+  <rect stroke="#000000" id="svg_8" opacity="0.3" height="611.11114" width="199.11107" y="16.85182" x="15.94447" stroke-width="0" fill="#7f003f"/>
+  <rect id="svg_9" opacity="0.3" height="611.6973" width="177.77774" y="14.8519" x="712.05555" stroke-width="0" fill="#7f003f" stroke="#000000"/>
+  <rect stroke="#000000" stroke-opacity="0" id="svg_21" height="32" width="104" y="156.29468" x="16.19167" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f"/>
+  <rect stroke="#000000" stroke-opacity="0" id="svg_22" height="40.28736" width="167" y="53.04164" x="722.16683" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f"/>
+ </g>
+ <g stroke="null" display="inline">
+  <title>圖片</title>
+   <g stroke="null" display="inline">
+  <title>Speak's photo</title>
+  <image xlink:href="https://c1.staticflickr.com/5/4512/37985415166_c44efe10f4_o.png" id="svg_38" height="91" width="80.99999" y="59.03448" x="15.33333"/></g>
+  <g stroke="null" display="inline">
+  <title>Part 5 photo</title>
+  <image stroke="null" x="384.58339" y="308.84059" width="156.49996" height="119.40941" id="svg_17" xlink:href="https://farm5.staticflickr.com/4284/34326487353_90b7f1617b_b.jpg"/></g>
+  <g stroke="null" display="inline">
+  <title>Part 1 photo</title>
+  <image stroke="null" x="220.85146" y="106.0326" width="156.75362" height="114.66303" id="svg_23" xlink:href="https://farm5.staticflickr.com/4207/34291688994_4fd2216f54_b.jpg"/></g>
+  <g stroke="null" display="inline">
+  <title>Part 2 photo</title>
+  <image stroke="null" x="383.67754" y="111.46738" width="160.12318" height="101.85507" id="svg_24" xlink:href="https://farm5.staticflickr.com/4221/34291688624_0b3d91fa65_b.jpg"/></g>
+  <g stroke="null" display="inline">
+  <title>photo</title>
+  <image x="729.05798" y="514.89134" width="145.37681" height="101.38404" id="svg_30" xlink:href="https://farm5.staticflickr.com/4235/34749935510_db54163867_b.jpg"/></g>
+  <g stroke="null" display="inline">
+  <title>Part 3 photo</title>
+  <image stroke="null" x="547.15577" y="78.2609" width="158.8732" height="170.22466" id="svg_32" xlink:href="https://farm5.staticflickr.com/4226/34326487063_ceaec53d92_b.jpg"/></g>
+  <g stroke="null" display="inline">
+  <title>Part 6 photo</title>
+  <image stroke="null" x="547.25" y="313.75" width="157.25001" height="106.25" id="svg_18" xlink:href="https://farm5.staticflickr.com/4289/34291688694_16a9d353ac_b.jpg"/></g>
+  <g stroke="null" display="inline">
+  <title>Part 4 photo</title>
+  <image stroke="null" id="svg_3" xlink:href="https://farm5.staticflickr.com/4204/34326486673_8022d95863_b.jpg" height="104.99998" width="174.49999" y="316.25" x="212.75"/></g>
+ </g>
+ <g stroke="null" display="inline">
+  <title>標題</title>
+  <g stroke="null" display="inline">
+  <title>The Nano-Gold rush</title>
+  <text opacity="0.85" fill="#7f3f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="-287.9415" y="15.40148" id="svg_45" font-size="24" font-family="Cursive" text-anchor="middle" xml:space="preserve" font-weight="bold" transform="matrix(0.8989201321476141,0,0,1.3021101130223722,375.1072613851579,34.05832895216767) ">The Nano-Gold rush</text></g>
+  <g stroke="null" display="inline">
+  <title>Speaker&#x27;s</title>
+  <text stroke="null" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_25" y="78.93068" x="754.84142" opacity="0.8" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff" font-style="italic" transform="matrix(0.8406476094579095,0,0,0.8696967485759515,131.8161622722508,11.668342329910757) ">Speaker&#x27;s</text></g>
+  <g stroke="null" display="inline">
+  <title>Abstract</title>
+  <text style="cursor: move;" stroke="null" font-style="italic" transform="matrix(0.8458460452209671,0,0,0.8543518839013259,22.732074116946247,32.78018207997524) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_27" y="173.78601" x="42.11474" opacity="0.8" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">Abstract</text></g>
+  <g stroke="null" display="inline">
+  <title>Further Reading</title>
+  <text style="cursor: text;" stroke="null" font-style="italic" transform="translate(388.8465576171875,441.1921691894531) scale(1.0136302709579468,0.8249392509460449) translate(-388.8465576171875,-441.1921691894531) translate(888.8558959960938,436.2577209472656) scale(0.9734276533126831,1) translate(-888.8558959960938,-436.2577209472656) translate(889.87255859375,504.8636779785156) scale(1) translate(-889.87255859375,-504.8636779785156) translate(889.914306640625,505.77667236328125) scale(1.0139044523239136,1.3043327331542969) translate(-889.914306640625,-505.77667236328125) translate(888.4232177734375,504.6651611328125) scale(1) translate(-888.4232177734375,-504.6651611328125) translate(888.3218994140625,504.255126953125) scale(0.9399330019950867,0.7570223808288574) translate(-888.3218994140625,-504.255126953125) translate(888.0772705078125,504.109619140625) scale(0.8550723195075989,0.9137715697288513) translate(-888.0772705078125,-504.109619140625) matrix(1.0937924253894378,0,0,1.0937924253894378,71.03591400341189,-39.500754610857044) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_28" y="478.86585" x="256.85245" opacity="0.8" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">Further Reading</text></g>
+  <g stroke="null" display="inline">
+  <title>Prof. Jochen Feldmann</title>
+  <text stroke="#000000" transform="matrix(0.49792109035449444,0,0,0.7370171634797685,-37.11809869585528,-16.239702218542767) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_31" y="203.25306" x="374.73439" opacity="0.6" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f3f00">Prof. Jochen Feldmann</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 1</title>
+  <text stroke="#000000" id="svg_61" fill="#7f0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="35.29234" y="-161.64739" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.8020544130069369,0,0,0.9675877999311164,232.12352179028332,201.08702223023832) ">Part 1-</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 2</title>
+  <text stroke="#000000" id="svg_62" fill="#7f0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="275.27034" y="-128.74795" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7874513771826369,0,0,0.9832127963842169,201.79041084926718,171.92061329735714) ">Part 2-</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 3</title>
+  <text stroke="#000000" id="svg_63" fill="#7f0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="520.02476" y="-154.49001" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7995426771178651,0,0,0.966066064843821,166.86682167863594,193.7557350641706) ">Part 3-</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 4</title>
+  <text stroke="#000000" id="svg_64" fill="#7f0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="263.95884" y="260.32245" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.8071832610412248,0,0,0.9066481210240692,42.870056074517905,11.698508442386963) ">Part 4-</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 5</title>
+  <text stroke="#000000" id="svg_65" fill="#7f0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="425.60595" y="264.74404" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7913376151561301,0,0,0.8673293746002743,84.27300944232422,18.019856614129264) ">Part 5-</text></g>
+  <g stroke="null" display="inline">
+  <title>Part 6</title>
+  <text stroke="#000000" id="svg_66" fill="#7f0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="597.6111" y="267.51087" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7673565753778451,0,0,0.8021556771550138,125.57736257107473,32.113605131579064) ">Part 6-</text></g>
+  <g stroke="null" display="inline">
+  <title>Welcoming</title>
+  <text opacity="0.45" stroke="#000000" transform="matrix(0.8378620909890289,0,0,0.8247196614843643,-15.387514604005247,573.9143234516825) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_69" y="-82.25494" x="102.29603" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f">Welcoming</text></g>
+  <g stroke="null" display="inline">
+  <title>Golden Nano-Antennas</title>
+  <text opacity="0.45" stroke="#000000" font-weight="normal" id="svg_80" transform="matrix(0.6468871608391561,0,0,0.9296253355299756,164.83584603485977,-108.2375125133481) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="195.13068" x="711.41683" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f">Golden Nano-Antennas</text></g>
+  <g stroke="null" display="inline">
+  <title>Nano-Gold Rush</title>
+  <text opacity="0.45" stroke="#000000" id="svg_82" transform="matrix(0.781081652674769,0,0,0.8393885698946147,-7.989787970491676,-176.25445018555183) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="298.4584" x="600.65452" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f">Nano-Gold Rush</text></g>
+  <g stroke="null" display="inline">
+  <title>Introduction</title>
+  <text opacity="0.45" stroke="#000000" id="svg_87" transform="matrix(0.8261097473149047,0,0,0.9389855031032385,182.15844917792126,152.90980667426) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="-94.35943" x="142.53006" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f">Introduction</text></g>
+  <g stroke="null" display="inline">
+  <title>Q&amp;A</title>
+  <text opacity="0.45" stroke="#000000" id="svg_56" transform="matrix(0.8507642244533173,0,0,0.9152342983237383,85.30047846081933,13.56231096462026) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="286.44707" x="637.22134" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f">Q&amp;A</text></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch welcoming's video</title>
+  <a stroke="null" xlink:href="https://youtu.be/MKEBdLEaZ_Q" id="svg_26">
+   <path stroke="#000000" fill="#3f3f3f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m38.52154,582.68171c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" marker-mid="url(#se_marker_mid_svg_44)" id="svg_44"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 1's video</title>
+  <a stroke="null" xlink:href="https://youtu.be/DxR3kgZxfHA" id="svg_57">
+   <path stroke="#000000" fill="#3f3f3f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m238.77154,186.68171c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" marker-mid="url(#se_marker_mid_svg_44)" id="svg_43"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 2's video</title>
+  <a stroke="null" xlink:href="https://youtu.be/oUJRDWieUaY" id="svg_58">
+   <path stroke="#000000" fill="#3f3f3f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m406.27154,184.18172c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14331l-3.64261,-3.52212l6.37355,-6.1575l-6.37355,-6.15749l3.64261,-3.51914l10.0172,9.67663l-10.0172,9.67962z" marker-mid="url(#se_marker_mid_svg_44)" id="svg_42"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 3's video</title>
+  <a stroke="null" xlink:href="https://youtu.be/gaSrpjQPct4" id="svg_59">
+   <path stroke="#000000" fill="#3f3f3f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m571.52154,183.43171c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" marker-mid="url(#se_marker_mid_svg_41)" id="svg_41"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 4's video</title>
+  <a stroke="null" xlink:href="https://youtu.be/jvJK42Hi5uQ" id="svg_70">
+   <path stroke="#000000" fill="#3f3f3f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m236.27154,392.43171c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332c-1.2142,-1.17404 -2.42841,-2.34809 -3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" marker-mid="url(#se_marker_mid_svg_41)" id="svg_40"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 5's video</title>
+  <a stroke="null" xlink:href="https://youtu.be/YEEuc08D5cA" id="svg_71">
+   <path stroke="#000000" fill="#3f3f3f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m404.77154,387.59839c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14331l-3.64261,-3.52212l6.37355,-6.1575l-6.37355,-6.15749l3.64261,-3.51914l10.0172,9.67663l-10.0172,9.67962z" marker-mid="url(#se_marker_mid_svg_41)" id="svg_39"/>
+  </a></g>
+  <g stroke="null" display="inline">
+  <title>Click to watch Part 6's video</title>
+  <a stroke="null" xlink:href="https://youtu.be/Na9ag8UQff4" id="svg_74">
+   <path stroke="#000000" fill="#3f3f3f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m570.18821,388.76506c-8.26903,0 -14.97222,6.47597 -14.97222,14.46469c0,7.98872 6.7032,14.46469 14.97222,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.7032,-14.46469 -14.97222,-14.46469zm-2.4054,24.14331l-3.64262,-3.52212l6.37355,-6.1575l-6.37355,-6.1575l3.64262,-3.51914l10.01719,9.67663l-10.01719,9.67962l0,0.00001z" id="svg_36" marker-mid="url(#se_marker_mid_svg_36)"/>
+  </a></g>
+  <text stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_83" y="542.0428" x="772.10043" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f"/>
+  <g stroke="null" id="svg_180"/>
+  <g stroke="null" display="inline">
+  <title>Current Research</title>
+  <text opacity="0.45" stroke="#000000" font-weight="normal" id="svg_34" transform="matrix(0.8419372335339976,0,0,0.8345130931745458,67.98349013726843,-51.879815473103235) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="389.49883" x="275.96122" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f">Current Research</text></g>
+  <g stroke="null" display="inline">
+  <title>Conclusion</title>
+  <text opacity="0.45" stroke="#000000" id="svg_46" transform="matrix(0.8215319391564114,0,0,0.9078757269986184,-147.29002883198288,-99.28563083767122) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="411.78637" x="735.61546" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f">Conclusion</text></g>
+  <g stroke="null" display="inline">
+  <title>Biography</title>
+  <text stroke="null" opacity="0.8" transform="matrix(0.7681051001511283,0,0,0.8530227157745391,91.02706914468853,-4.851341322304055) " font-style="italic" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_49" y="100.85086" x="982.95825" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">Biography</text></g>
+  <g stroke="null" display="inline">
+  <title>12 June 2012</title>
+  <text stroke="#000000" transform="matrix(0.4961714414173405,0,0,0.6144814315199602,38.43254875516368,-0.9658177702597399) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="243.62571" x="213.64424" opacity="0.6" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f3f00" id="svg_73">12 June 2012</text></g>
+  <g stroke="null" display="inline">
+  <title>to Nano Gold</title>
+  <text opacity="0.45" id="svg_48" stroke="#000000" transform="matrix(0.7763475985139651,0,0,0.8764702948930988,200.94832794072832,148.53225095925907) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="-73.22615" x="126.24791" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f">to Nano Gold</text></g>
+  <g stroke="null" display="inline">
+  <title>Welcoming's photo</title>
+  <image x="45.25001" y="512" width="158.99998" height="97" id="svg_19" xlink:href="https://farm5.staticflickr.com/4287/34326487693_cd63e49182_b.jpg"/></g>
+  <g stroke="null" display="inline">
+  <title>photo</title>
+  <image stroke="null" xlink:href="https://farm5.staticflickr.com/4234/34291689314_23bf5be1c6_b.jpg" id="svg_29" height="123.25" width="144" y="470" x="232.5"/></g>
+ </g>
+  <g stroke="null" display="inline">
+  <title>文字</title>
+<g stroke="null" display="inline">
+  <title>1.  &#x27;Nanotechnology gold rush' - New non-toxic method for</title>
+  <text stroke="null" fill="#7f3f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="208.32438" y="528.79887" id="svg_47" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.5295673334809471,0,0,0.7482120382879558,433.5751546339928,114.88846067548101) " font-weight="bold">1.  &#x27;Nanotechnology gold rush' - New non-toxic method for</text></g>
+<g stroke="null" display="inline">
+  <title>https://www.nanowerk.com/news2/newsid=30484.php</title>
+  <text stroke="null" fill="#7f3f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1127.88246" y="545.02894" id="svg_50" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.43086562615594914,0,0,0.8309394541146715,100.92627461716481,81.09701577532624) " font-weight="bold">https://www.nanowerk.com/news2/newsid=30484.php</text></g>
+  <g stroke="null" display="inline">
+  <title>2. Nano Gold Rush: Researchers Use Tiny Gold Particles to Boost Organic</title>
+  <text stroke="null" fill="#7f3f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="660.82385" y="579.6816" id="svg_53" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.42778408456164213,0,0,0.8251580412471845,263.0533081244521,89.49164245440261) " font-weight="bold">2. Nano Gold Rush: Researchers Use Tiny Gold Particles to Boost Organic</text></g>
+  <g stroke="null" display="inline">
+  <title>Solar Cell Efficiency https://www2.nanotec.or.th/en/?p=3002</title>
+  <text stroke="null" fill="#7f3f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="744.27275" y="618.98389" id="svg_55" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.48984452306390075,0,0,0.6866278723026666,183.9807632610773,167.1889535901312) " font-weight="bold">Solar Cell Efficiency https://www2.nanotec.or.th/en/?p=3002</text></g>
+<g stroke="null" display="inline">
+  <title>
+  The potential of noble metal 
+nanostructures for various 
+optical phenomena such as 
+“enhancing electric fields 
+locally” has been known for 
+a long time but experienced 
+low attention until the end of 
+the last century. Since then 
+research on noble metal 
+nanostructures has seen a 
+stunning development. 
+Advances in novel top-down 
+and bottom-up strategies for 
+nanoscale fabrication, single 
+molecule detection, enhanced 
+interdisciplinarity and most 
+importantly pioneering 
+experimental and theoretical 
+contributions have led to a 
+scientific“nano-gold rush”. </title>
+  <image stroke="null" xlink:href="https://c1.staticflickr.com/5/4506/26262430809_aff390638c_o.png" id="svg_37" height="328" width="152" y="173" x="36.00001"/></g>
+  <g stroke="null" display="inline">
+  <title>Professor is a renowned 
+researcher in the field of 
+optics with nanomaterials. 
+Pioneering scientific 
+contributions include first 
+experimental demonstrations 
+of (i) Bloch Oscillations in 
+semiconductor superlattices, 
+(ii) of a bendable optically 
+pumped polymer laser, (iii) of 
+recording light scattering 
+spectra from individual gold 
+nanoparticles, (iv) of a single 
+gold nanoparticle biosensor 
+and (v) recently of laser 
+printing and listening with 
+single gold nanoparticles. 
+Professor Feldmann has 
+published more than 250 
+papers having been cited 
+more than 10,000 times. He 
+received numerous awards. 
+</title>
+  <image x="707.93096" y="111.22858" width="194.68967" height="400.48272" id="svg_2" xlink:href="https://c1.staticflickr.com/5/4484/37985790176_2dc38695e6_o.png"/></g>
+  <g stroke="null" display="inline">
+  <title>mining gold</title>
+  <text stroke="null" fill="#7f3f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="14.83134" y="547.61001" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.4956166836241013,0,0,0.8992735829096963,430.6479924606831,41.47573140112634) " font-weight="bold" id="svg_20">mining gold</text></g>
+ </g>
+</svg>
