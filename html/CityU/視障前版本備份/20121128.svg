@@ -1,0 +1,104 @@
+<svg width="905" height="640.0000000000002" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Synchronization in Flocks with Large Population</title>
+ <defs>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_36">
+   <path stroke-width="10" fill="#000000" d="m100,50l-100,40l30,-40l-30,-40l100,40z" id="svg_1" stroke="#000000"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_41">
+   <path stroke-width="10" fill="#000000" d="m100,50l-100,40l30,-40l-30,-40l100,40z" id="svg_4" stroke="#000000"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_44">
+   <path stroke-width="10" fill="#000000" d="m100,50l-100,40l30,-40l-30,-40l100,40z" id="svg_6" stroke="#000000"/>
+  </marker>
+  <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+   <image id="svg_7" x="0" y="0" width="100" height="100"/>
+  </pattern>
+ </defs>
+ <g display="inline" stroke="null">
+  <title>圖遮罩</title>
+ </g>
+ <g display="inline" stroke="null">
+  <title>文字</title>
+  <text font-weight="bold" transform="matrix(0.4827035425012812,0,0,0.7872075198496641,387.67214316523325,95.98040844301524) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_47" y="535.22532" x="-36.82475" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f3f00" stroke="null">1. Why Do Bird Flocks Move in Unison?</text>
+  <text transform="matrix(0.4364492957712202,0,0,0.783857363879662,100.03370975581339,103.9677990024905) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_50" y="553.50579" x="787.85541" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f3f00" stroke="null">https://www.livescience.com/32812-why-do-bird-flocks-move-in-unison.html</text>
+  <text font-weight="bold" transform="matrix(0.3710081860306512,0,0,0.9443844236036356,197.94580472608678,26.59055002981431) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_53" y="579.6816" x="510.2431" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f3f00" stroke="null">2. Incredible FLOCK of BIRDS Flying on the Sky of Norway</text>
+  <text transform="matrix(0.4479409930028759,0,0,0.7354053949909726,202.33886824786288,138.32571883532324) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_55" y="625.19957" x="422.4199" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f3f00" stroke="null">https://www.youtube.com/watch?v=t3Gp4vob_t8</text>
+  <image xlink:href="https://c1.staticflickr.com/5/4484/37703898166_dec9114a49_o.png" id="svg_60" height="248.33331" width="163.66667" y="254.66669" x="31.33332"/>
+  <image x="711.07896" y="91.73792" width="181.65186" height="326.20428" id="svg_2" xlink:href="https://c1.staticflickr.com/5/4502/37493625530_f1fd2aedd4_o.png"/>
+ </g>
+ <g display="inline" stroke="null">
+  <title>色塊</title>
+  <rect id="svg_5" fill="#ffd4aa" stroke-width="0" x="383.55557" y="15.85186" width="160" height="200.99998" opacity="0.3" stroke="#000000"/>
+  <rect id="svg_10" fill="#ffd4aa" stroke-width="0" x="219.00001" y="16.85187" width="160" height="201" opacity="0.3" stroke="#000000"/>
+  <rect id="svg_11" fill="#ffd4aa" stroke-width="0" x="547.11112" y="15.85188" width="160" height="200.99998" opacity="0.3" stroke="#000000"/>
+  <rect id="svg_12" fill="#ffd4aa" stroke-width="0" x="383.55556" y="222.40743" width="160" height="200.99998" opacity="0.3" stroke="#000000"/>
+  <rect id="svg_13" fill="#ffd4aa" stroke-width="0" x="219.00001" y="223.40742" width="160" height="198.00001" opacity="0.3" stroke="#000000"/>
+  <rect id="svg_14" fill="#ffd4aa" stroke-width="0" x="547.11112" y="222.40744" width="160" height="200.99998" opacity="0.3" stroke="#000000"/>
+  <rect stroke="#000000" id="svg_15" fill="#ffd4aa" stroke-width="0" x="218.70872" y="428.52958" width="489.31509" height="196.43338" opacity="0.3"/>
+  <rect fill="#ffd4aa" stroke-width="0" x="15.94447" y="16.85182" width="199.11107" height="611.11114" opacity="0.3" id="svg_8" stroke="#000000"/>
+  <rect stroke="#000000" fill="#ffd4aa" stroke-width="0" x="712.05555" y="16.1019" width="177.77774" height="610.36101" opacity="0.3" id="svg_9"/>
+  <rect stroke="#000000" fill="#ffaaaa" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="19.19167" y="216.32916" width="110" height="32" id="svg_21" stroke-opacity="0"/>
+  <rect fill="#ffaaaa" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="742.0289" y="44.08978" width="148" height="52.66667" id="svg_22" stroke-opacity="0" stroke="#000000"/>
+  <image xlink:href="https://farm5.staticflickr.com/4289/34972641762_4f08888e32_b.jpg" id="svg_16" height="164" width="141.5" y="368.25" x="736"/>
+ </g>
+ <g display="inline" stroke="null">
+  <title>圖片</title>
+  <image xlink:href="https://c1.staticflickr.com/5/4456/37211170494_f9043b3726_o.png" id="svg_33" height="109.33333" width="103.33333" y="90.33333" x="17.33333"/>
+  <image xlink:href="https://farm5.staticflickr.com/4208/35006471031_e3b0e543e4_b.jpg" id="svg_3" height="79.74999" width="123.00001" y="541.00001" x="72.99999"/>
+  <image xlink:href="https://farm5.staticflickr.com/4237/35006470461_42b11bf3fa_b.jpg" id="svg_18" height="101.99996" width="168.99999" y="111.00004" x="379"/>
+  <image xlink:href="https://farm5.staticflickr.com/4224/34972641622_d3d0c6359d_b.jpg" id="svg_19" height="104.99998" width="166.00001" y="111.00003" x="213.99999"/>
+  <image xlink:href="https://farm5.staticflickr.com/4260/34972641202_59f9eb46ab_b.jpg" id="svg_20" height="107" width="155.00001" y="109.5" x="549.5"/>
+  <image xlink:href="https://farm5.staticflickr.com/4241/34327273263_40e6fc34df_b.jpg" id="svg_24" height="104.99999" width="153.99999" y="309.75002" x="550.75"/>
+  <image xlink:href="https://farm5.staticflickr.com/4239/34972640372_2855bfb99e_b.jpg" id="svg_30" height="115.99998" width="157" y="304.50002" x="385"/>
+  <image xlink:href="https://farm5.staticflickr.com/4236/34327273353_32c4228e1a_b.jpg" id="svg_32" height="104.00001" width="217.99999" y="311.74999" x="190.00001"/>
+  <image x="708.36289" y="515.6831" width="194.288" height="96.9936" id="svg_17" xlink:href="https://farm5.staticflickr.com/4257/34972640242_e860513d8c_b.jpg"/>
+ </g>
+ <g display="inline" stroke="null">
+  <title>標題</title>
+  <text transform="matrix(0.6231120686278068,0,0,1.2448571359515677,284.32371806166583,38.42573958856109) " font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_45" y="15.40148" x="-272.10703" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f0000">Synchronization in Flocks</text>
+  <text transform="matrix(0.9353397761395539,0,0,1.0784846206374936,61.89591675886513,-6.869126517523288) " font-style="italic" fill="#7f0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="776.39363" y="67.1533" id="svg_25" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" stroke="null">Speaker&#x27;s</text>
+  <text fill="#7f0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="44.56737" y="235.83074" id="svg_27" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.8673995902415853,0,0,0.977002394595577,22.673593733757855,10.58180396983199) " font-style="italic" stroke="null">Abstract</text>
+  <text fill="#7f0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="98.54346" y="462.85278" id="svg_28" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="translate(888.8558959960938,436.2577209472656) scale(0.9734276533126831,1) translate(-888.8558959960938,-436.2577209472656) translate(889.87255859375,504.8636779785156) scale(1) translate(-889.87255859375,-504.8636779785156) translate(889.914306640625,505.77667236328125) scale(1.0139044523239136,1.3043327331542969) translate(-889.914306640625,-505.77667236328125) translate(888.4232177734375,504.6651611328125) scale(1) translate(-888.4232177734375,-504.6651611328125) translate(888.3218994140625,504.255126953125) scale(0.9399330019950867,0.7570223808288574) translate(-888.3218994140625,-504.255126953125) translate(888.0772705078125,504.109619140625) scale(0.8550723195075989,0.9137715697288513) translate(-888.0772705078125,-504.109619140625) matrix(1.0937924253894378,0,0,1.0937924253894378,71.03591400341189,-39.500754610857044) " font-style="italic" stroke="null">Further Reading</text>
+  <text fill="#7f7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="191.06549" y="250.66571" id="svg_31" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.6279642877083446,0,0,0.9596034742749296,43.715013568197946,-67.61073718700413) " stroke="#000000">Prof. GUO Lei</text>
+  <text transform="matrix(0.7197277582150838,0,0,0.8250247730318038,237.49016924029362,172.85249095387428) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="-133.24527" x="81.89131" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff5656" id="svg_61" stroke="#000000">Part 1-</text>
+  <text transform="matrix(0.7031031217390934,0,0,0.7628448931027562,221.70410002143456,161.7417917665812) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="-132.12325" x="334.01862" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff5656" id="svg_62" stroke="#000000">Part 2-</text>
+  <text transform="matrix(0.6751107277997732,0,0,0.7396199932123836,267.00268308767306,168.42017362801175) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="-145.10061" x="531.11173" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff5656" id="svg_63" stroke="#000000">Part 3-</text>
+  <text transform="matrix(0.7239184424583197,0,0,0.7152159999431038,105.20378684518435,79.2876011721606) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="253.94421" x="262.42993" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff5656" id="svg_64" stroke="#000000">Part 4-</text>
+  <text transform="matrix(0.7851159914658996,0,0,0.7786347807919096,103.87856140290923,58.329745787121205) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="263.12853" x="452.56633" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff5656" id="svg_65" stroke="#000000">Part 5-</text>
+  <text transform="matrix(0.6928200676055505,0,0,0.7646376639300525,208.01790254635944,63.563291051797265) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="265.02548" x="599.38403" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff5656" id="svg_66" stroke="#000000">Part 6-</text>
+  <text fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="-127.72867" y="288.33272" id="svg_69" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.9020770292609868,0,0,0.9962738392775577,192.3000209096778,246.6577552475948) " stroke="#000000">Welcoming</text>
+  <text fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="577.03487" y="286.11666" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.5672048115163458,0,0,1.0701356025413953,299.15831738696147,-217.140314290309) " id="svg_80" font-weight="normal" stroke="#000000">Synchronization</text>
+  <text fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="764.20149" y="308.48554" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7816430055041584,0,0,0.8047126636201167,-136.49564268508135,-160.31366411369535) " id="svg_82" stroke="#000000">Model</text>
+  <text fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="178.2409" y="-76.5156" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7414923582397265,0,0,0.9413065217143571,168.48768757372025,160.4927149001723) " id="svg_87" stroke="#000000">Introduction</text>
+  <text fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="502.40351" y="322.10167" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7961442565629933,0,0,0.7828897262908934,229.18730432400636,33.93784976894322) " id="svg_56" stroke="#000000">Q&amp;A</text>
+  <a id="svg_26" xlink:href="https://youtu.be/md2he0i0fGU" stroke="null">
+   <path id="svg_44" marker-mid="url(#se_marker_mid_svg_44)" d="m68.52154,592.68171c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f" stroke="#000000"/>
+  </a>
+  <a id="svg_57" xlink:href="https://youtu.be/gs5RMx4ZPDQ" stroke="null">
+   <path id="svg_43" marker-mid="url(#se_marker_mid_svg_44)" d="m238.77154,185.43171c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f" stroke="#000000"/>
+  </a>
+  <a id="svg_58" xlink:href="https://youtu.be/fgZXp8NUv-Q" stroke="null">
+   <path id="svg_42" marker-mid="url(#se_marker_mid_svg_44)" d="m405.02154,182.93172c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14331l-3.64261,-3.52212l6.37355,-6.1575l-6.37355,-6.15749l3.64261,-3.51914l10.0172,9.67663l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f" stroke="#000000"/>
+  </a>
+  <a id="svg_59" xlink:href="https://youtu.be/4qgoX3soID4" stroke="null">
+   <path id="svg_41" marker-mid="url(#se_marker_mid_svg_41)" d="m572.77154,180.93171c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f" stroke="#000000"/>
+  </a>
+  <a id="svg_70" xlink:href="https://youtu.be/Z-T_Ql461MI" stroke="null">
+   <path id="svg_40" marker-mid="url(#se_marker_mid_svg_41)" d="m235.02154,383.68171c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332c-1.2142,-1.17404 -2.42841,-2.34809 -3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f" stroke="#000000"/>
+  </a>
+  <a id="svg_71" xlink:href="https://youtu.be/KBHqeyRprcQ" stroke="null">
+   <path id="svg_39" marker-mid="url(#se_marker_mid_svg_41)" d="m402.27154,382.59839c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14331l-3.64261,-3.52212l6.37355,-6.1575l-6.37355,-6.15749l3.64261,-3.51914l10.0172,9.67663l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f" stroke="#000000"/>
+  </a>
+  <a id="svg_74" xlink:href="https://youtu.be/Na9ag8UQff4" stroke="null">
+   <path marker-mid="url(#se_marker_mid_svg_36)" id="svg_36" d="m568.93821,381.26506c-8.26903,0 -14.97222,6.47597 -14.97222,14.46469c0,7.98872 6.7032,14.46469 14.97222,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.7032,-14.46469 -14.97222,-14.46469zm-2.4054,24.14331l-3.64262,-3.52212l6.37355,-6.1575l-6.37355,-6.1575l3.64262,-3.51914l10.01719,9.67663l-10.01719,9.67962l0,0.00001z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f" stroke="#000000"/>
+  </a>
+  <text fill="#3f3f3f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="772.10043" y="542.0428" id="svg_83" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" stroke="#000000"/>
+  <g id="svg_180" stroke="null"/>
+  <text id="svg_85" transform="matrix(0.5773223250858124,0,0,1.0716988192661148,247.0769891160355,41.999991243464564) " font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="35.0717" x="-230.85077" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f0000" stroke="#000000">with Large Population</text>
+  <text fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="309.5868" y="411.28889" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.704752255528378,0,0,0.9507586110984985,77.22559866105534,-105.4677670458778) " id="svg_34" font-weight="normal" stroke="#000000">Intervention</text>
+  <text fill="#ff7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="485.15107" y="396.24121" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.5624904804192421,0,0,0.9209149373951911,191.50222845441652,-76.3968613169656) " id="svg_46" stroke="#000000">Concluding Remark</text>
+  <text fill="#7f0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="982.95825" y="110.24096" id="svg_49" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" font-style="italic" transform="matrix(0.8782151457276998,0,0,1.0257566429071654,-23.450923716153167,-23.600688150201673) " opacity="0.8" stroke="null">Biography</text>
+  <text id="svg_73" fill="#7f7f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="192.85358" y="280.47387" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.51619354478138,0,0,0.7209500610319466,64.95685815025055,-8.627303411536236) " stroke="#000000">28 November 2012</text>
+ </g>
+</svg>
