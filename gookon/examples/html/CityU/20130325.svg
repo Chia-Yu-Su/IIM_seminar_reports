@@ -1,0 +1,280 @@
+<svg width="904.9999999999999" height="640.0000000000002" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title/>
+ <defs>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_41">
+   <path stroke-width="10" fill="#000000" d="m100,50l-100,40l30,-40l-30,-40l100,40z" id="svg_4" stroke="#000000"/>
+  </marker>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_mid_svg_44">
+   <path stroke-width="10" fill="#000000" d="m100,50l-100,40l30,-40l-30,-40l100,40z" id="svg_6" stroke="#000000"/>
+  </marker>
+  <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+   <image id="svg_7" x="0" y="0" width="100" height="100"/>
+  </pattern>
+ </defs>
+ <g display="inline" stroke="null">
+  <title>色塊</title>
+  <rect stroke="#000000" id="svg_13" fill="#ffaaaa" stroke-width="0" x="222.00001" y="220.40742" width="157" height="201.00001" opacity="0.3"/>
+  <rect stroke="#000000" id="svg_15" fill="#ffaaaa" stroke-width="0" x="544.95861" y="425.52957" width="160.98011" height="198.43338" opacity="0.3"/>
+  <rect fill="#7f0000" stroke-width="0" x="11.94446" y="16.85182" width="205.11108" height="611.11114" opacity="0.3" id="svg_8" stroke="#000000"/>
+  <rect fill="#7f0000" stroke-width="0" x="713.05555" y="15.8519" width="177.77774" height="607.61572" opacity="0.3" id="svg_9" stroke="#000000"/>
+  <rect fill="#7f3f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="12.85833" y="195.62801" width="105.14727" height="32" id="svg_21" stroke="#000000"/>
+  <rect fill="#7f3f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="730.58459" y="52.50063" width="159.58223" height="29.28736" id="svg_22" stroke-opacity="0" stroke="#000000"/>
+  <rect stroke="#000000" fill="#7f3f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="61.32992" y="432.5585" width="156.08593" height="31.625" id="svg_29"/>
+  <rect id="svg_17" stroke="#000000" fill="#ffaaaa" stroke-width="0" x="222.49999" y="425.99999" width="157" height="201.00001" opacity="0.3"/>
+  <rect id="svg_18" stroke="#000000" fill="#ffaaaa" stroke-width="0" x="222.49999" y="16.99999" width="157" height="201.00001" opacity="0.3"/>
+  <rect id="svg_19" stroke="#000000" fill="#ffaaaa" stroke-width="0" x="385.49999" y="16.99999" width="157" height="201.00001" opacity="0.3"/>
+  <rect id="svg_20" stroke="#000000" fill="#ffaaaa" stroke-width="0" x="549.49999" y="16.99999" width="157" height="201.00001" opacity="0.3"/>
+  <rect id="svg_30" stroke="#000000" fill="#ffaaaa" stroke-width="0" x="385.49999" y="219.99999" width="157" height="201.00001" opacity="0.3"/>
+  <rect id="svg_32" stroke="#000000" fill="#ffaaaa" stroke-width="0" x="548.49999" y="220" width="157" height="201.00001" opacity="0.3"/>
+  <rect stroke="#000000" id="svg_33" fill="#ffaaaa" stroke-width="0" x="385.49999" y="425.99998" width="160" height="201.00001" opacity="0.3"/>
+  <rect fill="none" stroke-width="5" x="36.33333" y="467.33333" width="169.33334" height="139.33334" id="svg_12" stroke="#ffffff"/>
+  <rect stroke="#000000" id="svg_84" fill="#7f3f00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="387.45701" y="442.18751" width="158.08595" height="25.625"/>
+  <rect stroke="#ffffff" id="svg_60" fill="none" stroke-width="5" x="727.33333" y="354.33331" width="156.33334" height="147.33333"/>
+ </g>
+ <g display="inline" stroke="null">
+  <title>圖片</title>
+  <g stroke="null" display="inline">
+  <title>Speaker's photo</title>
+  <image stroke="null" x="6.00003" y="81.00001" width="93.99999" height="94" id="svg_16" xlink:href="https://c1.staticflickr.com/5/4632/28148730009_7e262065cf_o.png"/></g>
+  <g stroke="null" display="inline">
+  <title>Welcoming's photo</title>
+  <image x="48.25004" y="470.00001" width="165.99999" height="122.5" id="svg_89" xlink:href="https://farm5.staticflickr.com/4285/35006342901_4feb52e5f0_b.jpg"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 1's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4283/35006342721_807cff9ed4_b.jpg" id="svg_11" height="100" width="185.00001" y="111" x="208"/></g>
+  <g stroke="null" display="inline">
+  <title>Part 2's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4216/35006342541_7f2a31a40a_b.jpg" id="svg_14" height="138" width="149" y="92" x="390"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 3's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4227/35097369236_31c83953f4_b.jpg" id="svg_24" height="100" width="195" y="111" x="532"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 4's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4200/35006340131_21783ba312_b.jpg" id="svg_51" height="101" width="148.99999" y="307" x="226.00001"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 6's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4249/34292329004_f3d71a0655_b.jpg" id="svg_52" height="102.00001" width="161.00003" y="306.99999" x="546.99997"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 7's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4197/34292328854_2b15907203_b.jpg" id="svg_53" height="100.99999" width="147.99999" y="520.00001" x="227"/></g>
+  <g stroke="null" display="inline">
+ <title>Part 5's photo</title>
+  <image xlink:href="https://farm5.staticflickr.com/4222/34292330104_3fd458e448_b.jpg" id="svg_54" height="101" width="145" y="307" x="390.99999"/></g>
+  <g stroke="null" display="inline">
+ <title>QA's photo</title>
+  <image x="714" y="391.66666" width="154.66666" height="111.00001" id="svg_50" xlink:href="https://farm5.staticflickr.com/4270/35006339611_a03bbdd3ce_b.jpg"/></g>
+  <g stroke="null" display="inline">
+ <title>Further's Reading photo</title>
+  <image id="svg_1" xlink:href="https://c1.staticflickr.com/5/4623/39231821064_aeb058b3ee_o.png" height="99.99999" width="163.99999" y="520" x="547"/></g>
+ </g>
+ <g display="inline" stroke="null">
+  <title>標題</title>
+  <g stroke="null" display="inline">
+ <title>Hunting the Targets of Biologucally</title>
+  <text transform="matrix(0.508590047446148,0,0,1.059556921900112,206.97521023079537,36.66632277119341) " font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_45" y="11.21208" x="-184.65165" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f" opacity="0.85">Hunting the Targets of Biologucally</text></g>
+  <g stroke="null" display="inline">
+ <title>Speaker&#x27;s</title>
+  <text transform="matrix(0.8406476094579095,0,0,0.8696967485759515,131.8161622722508,11.668342329910757) " font-style="italic" fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="756.96396" y="67.72368" id="svg_25" font-size="24" font-family="Serif" text-anchor="middle" xml:space="preserve" stroke="null">Speaker&#x27;s</text></g>
+  <g stroke="null" display="inline">
+ <title>Abstract</title>
+  <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="68.85819" y="205.73835" id="svg_27" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.8712908761122634,0,0,0.9110834388312584,-3.0226665376568,32.56104403430815) " font-style="italic" stroke="null">Abstract</text></g>
+  <g stroke="null" display="inline">
+ <title>Welcoming</title>
+  <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="-133.80331" y="445.89809" id="svg_28" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="translate(554.5355224609375,435.7587890625) scale(1.1204942464828491,1.086641550064087) translate(-554.5355224609375,-435.7587890625) translate(554.274658203125,435.3764953613281) scale(1.0869497060775757,1.1274291276931763) translate(-554.274658203125,-435.3764953613281) translate(554.9812622070312,435.6423034667969) scale(0.7644617557525635,0.9113956093788147) translate(-554.9812622070312,-435.6423034667969) translate(388.8465576171875,441.1921691894531) scale(1.0136302709579468,0.8249392509460449) translate(-388.8465576171875,-441.1921691894531) translate(888.8558959960938,436.2577209472656) scale(0.9734276533126831,1) translate(-888.8558959960938,-436.2577209472656) translate(889.87255859375,504.8636779785156) scale(1) translate(-889.87255859375,-504.8636779785156) translate(889.914306640625,505.77667236328125) scale(1.0139044523239136,1.3043327331542969) translate(-889.914306640625,-505.77667236328125) translate(888.4232177734375,504.6651611328125) scale(1) translate(-888.4232177734375,-504.6651611328125) translate(888.3218994140625,504.255126953125) scale(0.9399330019950867,0.7570223808288574) translate(-888.3218994140625,-504.255126953125) translate(888.0772705078125,504.109619140625) scale(0.8550723195075989,0.9137715697288513) translate(-888.0772705078125,-504.109619140625) matrix(1.0937924253894378,0,0,1.0937924253894378,71.03591400341189,-39.500754610857044) " font-style="italic" stroke="null">Welcoming</text></g>
+  <g stroke="null" display="inline">
+ <title>Part 1</title>
+  <text transform="matrix(0.7453534665716623,0,0,0.9412992028455168,233.77562537260405,192.20409339389138) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="-148.90563" x="29.94806" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_61" stroke="#000000">Part 1-</text></g>
+  <g stroke="null" display="inline">
+ <title>Part 2</title>
+  <text transform="matrix(0.8000934666703162,0,0,0.9261997518256443,202.01723496255838,178.73253067305873) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="-138.09945" x="276.41634" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_62" stroke="#000000">Part 2-</text></g>
+  <g stroke="null" display="inline">
+ <title>Part 3</title>
+  <text transform="matrix(0.736060820747355,0,0,0.9084172952158457,197.44529410160305,183.74257778088733) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="-145.84906" x="526.55607" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_63" stroke="#000000">Part 3-</text></g>
+  <g stroke="null" display="inline">
+ <title>Part 4</title>
+  <text transform="matrix(0.7277132477683327,0,0,0.8842449023775558,60.7004244705822,31.00358575383362) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="257.85157" x="269.30965" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_64" stroke="#000000">Part 4-</text></g>
+  <g stroke="null" display="inline">
+ <title>Part 5</title>
+  <text transform="matrix(0.810109616089019,0,0,0.8300595940537474,73.20693533812798,40.82061530838082) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="262.86532" x="432.64526" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_65" stroke="#000000">Part 5-</text></g>
+  <g stroke="null" display="inline">
+ <title>Part 6</title>
+  <text transform="matrix(0.8800287019083807,0,0,0.7683217399451019,60.1505625869159,54.97039188555925) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="263.20674" x="604.1133" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" id="svg_66" stroke="#000000">Part 6-</text></g>
+  <g stroke="null" display="inline">
+ <title>Introducing Dynamic</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="147.44055" y="-96.29969" id="svg_69" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.6920176600601019,0,0,1.0286872335299793,199.18641262399646,173.27869423014852) " stroke="#000000" opacity="0.7">Introducing Dynamic</text></g>
+  <g stroke="null" display="inline">
+ <title>Neutrophil Chase</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="178.35493" y="422.26996" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7865770860841138,0,0,0.9827609390052864,160.92584782678904,-125.6009954870427) " id="svg_80" font-weight="normal" opacity="0.7">Neutrophil Chase</text></g>
+  <g stroke="null" display="inline">
+ <title>Structural Classification</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="822.74308" y="330.67093" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.6340606508791297,0,0,0.9473913743933824,107.75881374910173,-238.49176928364625) " id="svg_82" opacity="0.7">Structural Classification</text></g>
+  <g stroke="null" display="inline">
+ <title>Natural Product</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="369.78128" y="-68.04452" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7611821645194201,0,0,0.9152578462506245,176.2404845367112,135.93578146761214) " id="svg_87" opacity="0.7">Natural Product</text></g>
+  <g stroke="null" display="inline">
+ <title>Click to watch Part 1's video</title>
+  <a id="svg_26" xlink:href="https://youtu.be/-e7SrWNiULw" stroke="null">
+   <path id="svg_44" marker-mid="url(#se_marker_mid_svg_44)" d="m241.27154,184.68171c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f" stroke="#000000"/>
+  </a></g>
+  <g stroke="null" display="inline">
+ <title>Click to watch Part 2's video</title>
+  <a id="svg_57" xlink:href="https://youtu.be/BL_TLBY8Bys" stroke="null">
+   <path id="svg_43" marker-mid="url(#se_marker_mid_svg_44)" d="m406.77154,183.68171c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f" stroke="#000000"/>
+  </a></g>
+  <g stroke="null" display="inline">
+ <title>Click to watch Part 3's video</title>
+  <a id="svg_58" xlink:href="https://youtu.be/ZkQwF4-Hgl4" stroke="null">
+   <path id="svg_42" marker-mid="url(#se_marker_mid_svg_44)" d="m567.05401,183.11677c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14331l-3.64261,-3.52212l6.37355,-6.1575l-6.37355,-6.15749l3.64261,-3.51914l10.0172,9.67663l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f" stroke="#000000"/>
+  </a></g>
+  <g stroke="null" display="inline">
+ <title>Click to watch Part 4's video</title>
+  <a id="svg_59" xlink:href="https://youtu.be/hOYvlKzhq48" stroke="null">
+   <path id="svg_41" marker-mid="url(#se_marker_mid_svg_41)" d="m238.77154,383.93071c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f0000" stroke="#000000"/>
+  </a></g>
+
+  <g stroke="null" display="inline">
+ <title>Click to watch Part 5's video</title>
+  <a id="svg_70" xlink:href="https://youtu.be/Nuu5VxPP0GA" stroke="null">
+   <path id="svg_40" marker-mid="url(#se_marker_mid_svg_41)" d="m406.52154,385.43071c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332c-1.2142,-1.17404 -2.42841,-2.34809 -3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f0000" stroke="#000000"/>
+  </a></g>
+
+  <g stroke="null" display="inline">
+ <title>Click to watch Part 6's video</title>
+  <a id="svg_71" xlink:href="https://youtu.be/rykN7cudDhg" stroke="null">
+   <path id="svg_39" marker-mid="url(#se_marker_mid_svg_41)" d="m567.02154,384.84839c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14331l-3.64261,-3.52212l6.37355,-6.1575l-6.37355,-6.15749l3.64261,-3.51914l10.0172,9.67663l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f0000" stroke="#000000"/>
+  </a></g>
+  <text fill="#3f3f3f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="772.10043" y="542.0428" id="svg_83" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" stroke="#000000"/>
+  <g id="svg_180" stroke="null"/>
+  <g stroke="null" display="inline">
+ <title>Exportin</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="522.0037" y="412.75965" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7937021406330558,0,0,1.0977816159180263,43.78843660974839,-164.5971789905614) " id="svg_34" font-weight="normal" opacity="0.7">Exportin</text></g>
+  <g stroke="null" display="inline">
+ <title>Mitosis</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="794.57758" y="400.90924" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.8035130301916793,0,0,0.9775731265670705,-14.257162415767684,-106.24161897176106) " id="svg_46" opacity="0.7">Mitosis</text></g>
+  <g stroke="null" display="inline">
+ <title>Biography</title>
+  <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1934.14145" y="-40.04911" id="svg_49" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" font-style="italic" transform="matrix(0.7681051001511282,0,0,0.8530227157745391,-636.4639586873427,105.59283439791079) " opacity="0.8" stroke="null">Biography</text></g>
+  <g stroke="null" display="inline">
+ <title>Relevant Small Molecules</title>
+  <text id="svg_38" transform="matrix(0.6000443525146428,0,0,0.981281485559353,274.39894482294875,15.82890802724302) " font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="58.09481" x="-272.89933" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f" opacity="0.85">Relevant Small Molecules</text></g>
+  <g stroke="null" display="inline">
+ <title>Prof. Herbert Waldmann</title>
+  <text fill="#ff0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.75" x="361.53238" y="234.27196" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.41839025614372244,0,0,0.7518371693897163,1.9883778719627843,-22.860906151774824) " stroke="#000000" id="svg_2">Prof. Herbert Waldmann</text></g>
+  <g stroke="null" display="inline">
+ <title>Part 7</title>
+  <text transform="matrix(0.7698469953529257,0,0,0.8354156697391075,51.35827861316222,105.25216075326802) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="425.07901" x="270.81878" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff7f00" stroke="#000000" id="svg_3">Part 7-</text></g>
+  <g stroke="null" display="inline">
+ <title>Target Identification</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="161.98153" y="567.29846" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7163980670729101,0,0,1.0093970692558585,185.89615036089748,-85.15331842852703) " font-weight="normal" opacity="0.7" id="svg_23">Target Identification</text></g>
+<g stroke="null" display="inline">
+ <title>Click to watch Part 7's video</title>
+  <a id="svg_35" xlink:href="https://youtu.be/eVbPZkQjgnM">
+   <path marker-mid="url(#se_marker_mid_svg_41)" d="m242.99999,594.55801c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f0000" stroke="#000000" id="svg_5"/>
+  </a></g>
+  <g stroke="null" display="inline">
+ <title>Chemical Space</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="494.47727" y="-318.2676" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7944956886535419,0,0,0.8956425340704943,71.83532298755887,377.48881808189356) " opacity="0.7" id="svg_55">Chemical Space</text></g>
+  <g stroke="null" display="inline">
+ <title>Click to watch Welcoming's video</title>
+  <a id="svg_37" xlink:href="https://youtu.be/0kQrCD-zrLk">
+   <path id="svg_36" marker-mid="url(#se_marker_mid_svg_41)" d="m54.00001,567.53532c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f" stroke="#000000"/>
+  </a></g>
+  <g stroke="null" display="inline">
+ <title>Click to watch QA's video</title>
+  <a id="svg_108" xlink:href="https://youtu.be/vKU-pR9QBT8">
+   <path marker-mid="url(#se_marker_mid_svg_41)" d="m873.1878,485.17224c-8.26903,0 -14.97223,6.47597 -14.97223,14.46469c0,7.98872 6.7032,14.46469 14.97223,14.46469c8.26903,0 14.97222,-6.47597 14.97222,-14.46469c0,-7.98872 -6.70319,-14.46469 -14.97222,-14.46469zm-2.40541,24.14332l-3.64261,-3.52213l6.37355,-6.15749l-6.37355,-6.1575l3.64261,-3.51914l10.0172,9.67664l-10.0172,9.67962z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#7f003f" stroke="#000000" id="svg_107"/>
+  </a></g>
+<g stroke="null" display="inline">
+ <title>Further Reading</title>
+  <text id="svg_86" fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.8" x="245.43199" y="456.8417" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="translate(554.5355224609375,435.7587890625) scale(1.1204942464828491,1.086641550064087) translate(-554.5355224609375,-435.7587890625) translate(554.274658203125,435.3764953613281) scale(1.0869497060775757,1.1274291276931763) translate(-554.274658203125,-435.3764953613281) translate(554.9812622070312,435.6423034667969) scale(0.7644617557525635,0.9113956093788147) translate(-554.9812622070312,-435.6423034667969) translate(388.8465576171875,441.1921691894531) scale(1.0136302709579468,0.8249392509460449) translate(-388.8465576171875,-441.1921691894531) translate(888.8558959960938,436.2577209472656) scale(0.9734276533126831,1) translate(-888.8558959960938,-436.2577209472656) translate(889.87255859375,504.8636779785156) scale(1) translate(-889.87255859375,-504.8636779785156) translate(889.914306640625,505.77667236328125) scale(1.0139044523239136,1.3043327331542969) translate(-889.914306640625,-505.77667236328125) translate(888.4232177734375,504.6651611328125) scale(1) translate(-888.4232177734375,-504.6651611328125) translate(888.3218994140625,504.255126953125) scale(0.9399330019950867,0.7570223808288574) translate(-888.3218994140625,-504.255126953125) translate(888.0772705078125,504.109619140625) scale(0.8550723195075989,0.9137715697288513) translate(-888.0772705078125,-504.109619140625) matrix(1.0937924253894378,0,0,1.0937924253894378,71.03591400341189,-39.500754610857044) " font-style="italic" stroke="null">Further Reading</text></g>
+  <g stroke="null" display="inline">
+ <title>Biological</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="153.9874" y="-76.01287" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7116306773012467,0,0,0.9878349283662534,192.5172856913008,167.58163301066284) " stroke="#000000" opacity="0.7" id="svg_100">Biological Sysyem</text></g>
+ <g stroke="null" display="inline">
+ <title>of Natural Products</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="828.67499" y="357.05275" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.6584079901291117,0,0,0.8302982841856261,84.92103010340702,-204.4881630238056) " opacity="0.7" id="svg_101">of Natural Products</text></g>
+  <g stroke="null" display="inline">
+ <title>and Confirmation</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="171.8895" y="586.40794" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.6200622495597201,0,0,1.1146672195180651,191.95885055104904,-145.76553288640648) " font-weight="normal" opacity="0.7" id="svg_102">and Confirmation</text></g>
+  <g stroke="null" display="inline">
+ <title>Q &amp; A</title>
+  <text fill="#ff007f" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1017.15167" y="314.00182" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7937021406330557,0,0,1.046330496587677,43.76095553064682,57.36427202334064) " font-weight="bold" opacity="0.7" id="svg_104">Q &amp; A</text></g>
+  <g stroke="null" display="inline">
+ <title>25 March 2013</title>
+  <text id="svg_31" fill="#ff0000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.75" x="350.74431" y="257.83628" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.4898445663429219,0,0,0.6905270872979383,-17.302162639700775,-8.78581085856504) " stroke="#000000">25 March 2013</text></g>
+ </g>
+ <g display="inline" stroke="null">
+  <title>文字</title>
+  <g stroke="null" display="inline">
+ <title>1. Visit Waldmann - Engineer of Light</title>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="863.88221" y="404.36388" id="svg_91" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.5186657680139198,0,0,0.7665080985882538,39.92834458802479,206.6910533321084) " stroke="null">1. Visit Waldmann - Engineer of Light</text></g>
+  <g stroke="null" display="inline">
+ <title>Click here</title>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="666.33253" y="583.48281" id="svg_92" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.478231037464473,0,0,0.7232080299437627,166.33484212731696,114.68978251516006) " stroke="null">Click here</text></g>
+  <g stroke="null" display="inline">
+ <title>2. Herbert Waldmann Bloomberg</title>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="339.80674" y="651.60669" id="svg_93" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.4900839573778955,0,0,0.7821015856827471,308.4618799589631,55.640431509281285) " stroke="null">2. Herbert Waldmann Bloomberg</text></g>
+  <g stroke="null" display="inline">
+ <title>Click here</title>
+  <text font-weight="bold" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="299.47348" y="628.4442" id="svg_95" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.488901052127523,0,0,0.6807321700966097,342.00835193949194,158.93028914368142) " stroke="null">Click here</text></g>
+  <g stroke="null" display="inline">
+ <title>1. Visit Waldmann - Engineer of Light</title>
+  <a id="svg_98" xlink:href="https://www.waldmann.com/home/waldmann_group~8a8181f34757e896014757f3cf5a0041.en.html">
+   <path marker-mid="url(#se_marker_mid_svg_41)" d="m536.50001,521.53532c-4.67914,0 -8.47223,4.01357 -8.47223,8.96469c0,4.95112 3.79309,8.96469 8.47223,8.96469c4.67914,0 8.47222,-4.01357 8.47222,-8.96469c0,-4.95112 -3.79309,-8.96469 -8.47222,-8.96469zm-1.36113,14.96315l-2.06122,-2.18289l3.60656,-3.81619l-3.60656,-3.8162l2.06122,-2.18104l5.66836,5.99723l-5.66836,5.99908l0,0.00001z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000" id="svg_96" stroke="null">1. Visit Waldmann - Engineer of Light</path>
+  </a></g>
+  <g stroke="null" display="inline">
+ <title></title>
+  <a id="svg_99" xlink:href="https://www.bloomberg.com/research/stocks/private/person.asp?personId=22894245&amp;privcapId=30534336&amp;previousCapId=851450&amp;previousTitle=Migragen%20AG">
+   <path stroke="#000000" marker-mid="url(#se_marker_mid_svg_41)" d="m534.50001,572.53532c-4.67914,0 -8.47223,4.23743 -8.47223,9.46469c0,5.22726 3.79309,9.46469 8.47223,9.46469c4.67914,0 8.47222,-4.23743 8.47222,-9.46469c0,-5.22726 -3.79309,-9.46469 -8.47222,-9.46469zm-1.36113,15.79772l-2.06122,-2.30464l3.60656,-4.02903c-1.20219,-1.34301 -2.40437,-2.68603 -3.60656,-4.02904l2.06122,-2.30268l5.66836,6.33172l-5.66836,6.33367z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000" id="svg_97"/>
+  </a></g>
+  <g stroke="null" display="inline">
+ <title>Small molecule probes offer distinct opportunities 
+to rapidly, reversibly and conditionally perturb 
+protein function and biological systems. For the 
+identification of such probes biological relevance 
+is key. This condition is met by natural product 
+inspired compound classes, selected in evolution. 
+We have developed the concept of Biology Oriented 
+Synthesis (BIOS) which builds on relevance in 
+nature to inspire compound synthesis. Investigation 
+of BIOS-compound collections in cell-based 
+assays and subsequent target identification and 
+validation by means of chemical proteomics, 
+molecular and cell biology revealed novel modulators 
+of protein function and networks. Examples include 
+Melophlin A which targets Dynamins, Centrocountin1 
+which targets Nucleophosmin and Crm1, Tubulexin 
+A which targets Tubulin and Exportin 2 and Wntepane 1  
+which targets the van Gogh like 1 receptor.
+</title>
+  <image x="20.3333" y="222.66664" width="193.66666" height="217.66666" id="svg_10" xlink:href="https://c1.staticflickr.com/5/4617/39909400692_420fc43484_o.png"/></g>
+  <g stroke="null" display="inline">
+ <title>Director of Department of Chemical Biology,
+Max-Planck-Institute of Molecular Physiology
+Full Professor of Organic Chemistry at University
+Professor Herbert Waldmann studied chemistry 
+and completed his Ph.D. in Organic Chemistry 
+at the University of Mainz in 1985. During the 
+next two years, he worked as postdoctoral 
+fellow at Harvard University. In 1991, he 
+qualified as Professor at the University of Mainz. 
+Shortly thereafter he was appointed as Professor 
+of Organic Chemistry at the University of Bonn. 
+In 1993, he became Full Professor of Organic 
+Chemistry at the University of Karlsruhe. Since 
+1999, he has headed the Department of 
+Chemical Biology, the Max-Planck-Institute of 
+Molecular Physiology, and has also held the 
+position of Full Professor of Organic Chemistry 
+at the University of Dortmund. He has been the 
+Head of the Chemical Genomics Center of the 
+Max Planck Gesellschaft since 2005. Professor 
+Waldmann has been awarded numerous 
+academic distinctions for his work, including the 
+Otto-Bayer-Award in 2001 and the Max-
+Bergmann Medal in 2003.
+</title>
+  <image x="714.66666" y="73.00002" width="178.33333" height="282.66666" id="svg_48" xlink:href="https://c1.staticflickr.com/5/4661/39941701401_caf359161e_o.png"/></g>
+ </g>
+</svg>
